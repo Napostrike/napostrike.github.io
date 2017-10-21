@@ -129,7 +129,7 @@ i {
 }
 
 #weather li {
-  background-image:url('https://imgur.com/w3oNa4A');
+  background: #7d7d7d;
   background: rgba(255,255,255,0.90);
   padding: 20px;
   display: inline-block;
